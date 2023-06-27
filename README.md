@@ -1,0 +1,2 @@
+# rust
+my rust project
